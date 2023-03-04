@@ -2,7 +2,7 @@
 	"name": "WeaponSlot",
 	"namespace": "RobocrafterLP",
 	"version_number": "1.0.0",
-	"description": "",
+	"description": "Adds an item that let you buy weapon slots",
 	"website_url": "",
 	"dependencies": [
 		"Darkly77-ContentLoader"
