@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/weapen_equip_icon.png-c73ca4a44e28c571f7c344121d153005.stex"
+path="res://.import/weapen_equip.png-6ed1fa5415b2058b3f3edfe420d06bb4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods-unpacked/RobocrafterLP-WeaponSlot/Content/items/all/WeaponSlot/weapen_equip_icon.png"
-dest_files=[ "res://.import/weapen_equip_icon.png-c73ca4a44e28c571f7c344121d153005.stex" ]
+source_file="res://unloaded/Github/RobocrafterLP-WeaponSlot/root/mods-unpacked/RobocrafterLP-WeaponSlot/Content/items/all/WeaponSlot/weapen_equip.png"
+dest_files=[ "res://.import/weapen_equip.png-6ed1fa5415b2058b3f3edfe420d06bb4.stex" ]
 
 [params]
 
